@@ -13,5 +13,6 @@ style: dark
 auto: true
 ghcommentid: 20
 layout: product
+Status: up to date (08/03/2019)
 ---
 A cute theme with changing color kittens.
